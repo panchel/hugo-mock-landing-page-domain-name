@@ -11,7 +11,6 @@ This is a backlog of user stories for CourseFinder. We build and customize cours
 5. As a teacher, I need a portal to manage who can take my class, the prerequisites, and the class level (grad, undergrad, etc)
 6. As a teacher, I need the functionality to display my class syllabus to potential students to help them understand the scope of the material.
 
-
 ### Other Features
 
 1. As a student, I need a research tool so that I can quickly and efficiently know what requirements I need to fulfill and what classes fit these requirements to graduate.
