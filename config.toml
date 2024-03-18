@@ -1,4 +1,4 @@
-baseURL = 'https://panchel.github.io/hugo-mock-landing-page/'
+baseURL = 'https://panchel.github.io/hugo-mock-landing-page-autodeployed/'
 title = "CourseFinder"
 author = "Chelsea Pan"
 copyright = "Chelsea Pan"
