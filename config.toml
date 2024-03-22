@@ -1,4 +1,4 @@
-baseURL = 'https://coursefinder.college/'
+baseURL = 'https://coursefinder.college'
 title = "CourseFinder"
 author = "Chelsea Pan"
 copyright = "Chelsea Pan"
